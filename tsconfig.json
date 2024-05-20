@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "target": "es2021",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "outDir": "./dist",
+    "types": ["node", "jsonwebtoken"]
+
+  },
+  "lib": ["es2021"],
+  "include": ["src/**/*.ts", ".env"]
+}
