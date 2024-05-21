@@ -12,3 +12,4 @@ coverage/
 # Ignore editor-specific files
 .vscode/
 .idea/
+.vercel
